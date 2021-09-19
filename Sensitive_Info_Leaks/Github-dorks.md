@@ -111,3 +111,8 @@
 - [WFClient] Password= extension:ica
 - extension:avastlic “[support.avast.com] (http://support.avast.com/)”
 - extension:json googleusercontent client_secret
+
+Go to  https://vsec7.github.io/ 
+ Enter you site
+ Click on Get keywords and then click on Generate Link
+ 
